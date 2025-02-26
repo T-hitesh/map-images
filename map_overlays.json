@@ -21,16 +21,16 @@
           81.555344
         ]
       },
-      "opacity": 0.5,
+      "opacity": 0.79,
       "imageDataPreview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBkAGQAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKC..."
     }
   ],
   "mapPosition": {
     "center": {
-      "lat": 16.804082455559595,
-      "lng": 81.52687683224033
+      "lat": 16.813871787129486,
+      "lng": 81.5199146084096
     },
-    "zoom": 15
+    "zoom": 14
   },
-  "lastUpdated": "2025-02-26T09:11:34.210Z"
+  "lastUpdated": "2025-02-26T09:11:50.465Z"
 }
