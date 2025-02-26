@@ -1,0 +1,36 @@
+{
+  "overlays": [
+    {
+      "id": "1740561054071",
+      "imageName": "BIBINAGAR.jpg",
+      "coordinates": {
+        "leftTop": [
+          16.824246,
+          81.504398
+        ],
+        "leftBottom": [
+          16.797431,
+          81.504562
+        ],
+        "rightTop": [
+          16.822208,
+          81.556
+        ],
+        "rightBottom": [
+          16.795392,
+          81.555344
+        ]
+      },
+      "opacity": 0.5,
+      "imageDataPreview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBkAGQAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKC..."
+    }
+  ],
+  "mapPosition": {
+    "center": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "zoom": 18
+  },
+  "lastUpdated": "2025-02-26T09:10:54.072Z"
+}
